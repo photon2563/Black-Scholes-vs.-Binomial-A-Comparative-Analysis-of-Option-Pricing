@@ -1,0 +1,2 @@
+# Black-Scholes-vs.-Binomial-A-Comparative-Analysis-of-Option-Pricing
+Option pricing models (Black-Scholes &amp; Binomial), their theoretical foundations, assumptions, convergence properties, and real-world implications. This repo offers Python simulations and comparative analysis against market data, demonstrating how models align or diverge from market realities. Perfect for quant finance students &amp; practitioners!
